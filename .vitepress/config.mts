@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
-  base: "/docs-demo/",
+  base: "/vite-press-demo/",
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
