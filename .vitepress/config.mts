@@ -6,7 +6,6 @@ export default defineConfig({
   description: "A VitePress Site",
   base: "/docs-demo/",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
       { text: 'UPFOS', link: '/markdown-examples' }
